@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shivam Arora.
 - 👀 I’m interested in FrontEnd Development.
-<!-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning flutter development and data structures
+<!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -->
 
